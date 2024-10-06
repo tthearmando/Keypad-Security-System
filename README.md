@@ -5,8 +5,8 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 - Arduino UNO
 - Keypad matricial 4x4
 - LED rojo
-- LED verde
+* LED verde
 - Resistencias (220 ohms)
-* Protoboard
+- Protoboard
 - Cables de conexión
 
