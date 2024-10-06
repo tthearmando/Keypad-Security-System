@@ -7,6 +7,6 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 - LED rojo
 - LED verde
 - Resistencias (220 ohms)
-+ Protoboard
-* Cables de conexión
+* Protoboard
+- Cables de conexión
 
