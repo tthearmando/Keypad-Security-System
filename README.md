@@ -14,7 +14,7 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 A continuación, se muestra el circuito diseñado en un simulador:
 
 
-<img src="Esquematico del teclado maticial.png" alt="Esquemático del teclado matricial" width="600"/>
+<img src="Esquematico del teclado maticial.png" alt="Esquemático del teclado matricial" width="200"/>
 
 
 
