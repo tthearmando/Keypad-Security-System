@@ -5,8 +5,28 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 - Arduino UNO
 - Keypad matricial 4x4
 - LED rojo
-* LED verde
-*** Resistencias (220 ohms)
+- LED verde
+- Resistencias (220 ohms)
 - Protoboard
 - Cables de conexión
 
+## Esquemático del Circuito
+A continuación, se muestra el circuito diseñado en un simulador:
+
+
+## Cómo Ejecutarlo
+## Requisitos:
+1. Arduino IDE instalado en tu computadora.
+2. Descarga los archivos del repositorio.
+3. Abre el archivo .ino en Arduino IDE.
+4. Conecta tu Arduino UNO a tu computadora.
+5. Sube el código a la placa Arduino.
+6. Usa el teclado para controlar los LEDs:
+- Presiona 1 para encender el LED verde.
+- Presiona 2 para encender el LED rojo.
+
+## Esquemático:
+Conecta los pines del teclado y LEDs según el esquemático proporcionado en la imagen. Sigue el diagrama de cableado en la protoboard para asegurarte de que todo está correctamente conectado.
+
+## Licencia
+Este proyecto está bajo la Licencia Creative Commons BY-NC-ND 4.0. Puedes compartir el proyecto, pero no puedes utilizarlo con fines comerciales ni realizar trabajos derivados.
