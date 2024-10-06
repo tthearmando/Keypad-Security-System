@@ -1,2 +1,12 @@
 # Keypad-Security-System
-Este proyecto implementa un sistema de control utilizando un teclado matricial (Keypad) y LEDs conectados a un Arduino UNO. Dependiendo de las teclas presionadas, los LEDs reaccionan encendiéndose o apagándose, lo que simula un sistema básico de control de acceso o verificación de contraseñas.
+Este repositorio contiene el proyecto "Keypad Security System", un sistema simple de control de LEDs utilizando un teclado matricial y una placa Arduino UNO. El proyecto está diseñado para activar LEDs en función de las teclas presionadas, simulando un sistema básico de verificación o control de acceso.
+
+## Materiales
+- Arduino UNO
+- Keypad matricial 4x4
+- LED rojo
+- LED verde
+- Resistencias (220 ohms)
++ Protoboard
+* Cables de conexión
+
