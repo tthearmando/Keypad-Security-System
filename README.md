@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 - Keypad matricial 4x4
 - LED rojo
 * LED verde
-* Resistencias (220 ohms)
+*** Resistencias (220 ohms)
 - Protoboard
 - Cables de conexión
 
