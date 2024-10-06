@@ -14,8 +14,12 @@ Este repositorio contiene el proyecto "Keypad Security System", un sistema simpl
 A continuación, se muestra el circuito diseñado en un simulador:
 
 
+<img src="Esquematico del teclado maticial.png" alt="Esquemático del teclado matricial" width="600"/>
+
+
+
 ## Cómo Ejecutarlo
-## Requisitos:
+### Requisitos:
 1. Arduino IDE instalado en tu computadora.
 2. Descarga los archivos del repositorio.
 3. Abre el archivo .ino en Arduino IDE.
